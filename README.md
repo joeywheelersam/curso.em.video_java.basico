@@ -23,7 +23,6 @@
 <br/>
 
 ## 📚 Módulos e Aulas <!--About modules and classes / Sobre módulos e aulas-->
-<details> <!--About module 1 / Sobre módulo 1-->
 <div align="left">
     <table border="1">
         <tbody>
@@ -102,7 +101,6 @@
         </tbody>
     </table>   
 </div>
-</details>
 <br/>
 
 ## 💪 Como contribuir para o projeto <!--About contributing to the project / Sobre contribuir para o projeto-->
