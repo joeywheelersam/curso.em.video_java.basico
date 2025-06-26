@@ -24,7 +24,6 @@
 
 ## 📚 Módulos e Aulas <!--About modules and classes / Sobre módulos e aulas-->
 <details> <!--About module 1 / Sobre módulo 1-->
-<summary><span>Ganhando Produtividade em Java com Spring Framework</span></summary>
 <div align="left">
     <table border="1">
         <tbody>
@@ -36,39 +35,39 @@
             </tr>
             <tr>
                 <td>01</td>
-                <td>Educação Grade Empregabilidade Juntas!</td>
-                <td><a href="./Módulo 1/01. Educação Gratuita e Empregabilidade Juntas.md">Link</a></td>
+                <td>Aula 01 - História do Java</td>
+                <td><a href="">Link</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>02</td>
-                <td>Contextualizando o Desenvolvimento Web com Spring Boot 3</td>
-                <td><a href="./Módulo 1/02. Desenvolvimento Web com Spring Boot 3 e Kotlin.md">Link</a></td>
-                <td align="center">✔️</td>
+                <td>Exercícios de Java #01</td>
+                <td><a href="">Link</a></td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>03</td>
                 <td>Versionamento de Código com Git e GitHub</td>
-                <td><a href="./Módulo 1/03. Versionamento de código com Git e GitHub.md">Link</a></td>
-                <td align="center">✔️</td>
+                <td><a href="">Link</a></td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>04</td>
                 <td>Desafios de Projetos: Crie um Portfólio Vencedor</td>
-                <td><a href="./Módulo 1/04. Desafios de projetos - Crie um portfólio vencedor.md">Link</a></td>
-                <td align="center">✔️</td>
+                <td><a href="">Link</a></td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>05</td>
                 <td>Contribuindo em um Projeto Open Source no GitHub</td>
-                <td><a href="./Módulo 1/05. Contribuindo em um Projeto Open Source no GitHub.md">Link</a></td>
-                <td align="center">✔️</td>
+                <td><a href="">Link</a></td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>06</td>
                 <td>Imersão no Spring Frameworks com Spring Boot</td>
-                <td><a href="./Módulo 1/06. Imersão no Spring Framework com Spring Boot.md">Link</a></td>
-                <td align="center">✔️</td>
+                <td><a href="">Link</a></td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>07</td>
@@ -104,3 +103,30 @@
     </table>   
 </div>
 </details>
+<br/>
+
+## 💪 Como contribuir para o projeto <!--About contributing to the project / Sobre contribuir para o projeto-->
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+<br/>
+
+## 🦸 Autor <!--About author / Sobre autor-->
+<a href="https://www.linkedin.com/in/jomar-ferreira-amorim/">
+    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47539152?s=400&u=d40b201906972abddb5890c966c190557cbf4754&v=4" width="100px;" alt=""/>
+    <br/>
+    <sub><b>Jomar Ferreira</b></sub>
+</a>
+<a href="https://www.linkedin.com/in/jomar-ferreira-amorim/" title="LinkedIn">🚀</a>
+<p align="left">💌 Contatos: ⤵️</p>
+<p align="left">
+    <a href="https://www.linkedin.com/in/jomar-ferreira-amorim/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jomar-ferreira-amorim/"></a>
+</p>
+<br/>
+
+## 📝 Licença <!--About license / Sobre licença-->
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Jomar Ferreira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jomar-ferreira-amorim/)
