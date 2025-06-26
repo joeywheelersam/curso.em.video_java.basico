@@ -28,14 +28,14 @@
         <tbody>
             <tr>
                 <th></th>
-                <th>Nome</th>
-                <th>Link</th>
+                <th>Aula</th>
+                <th>Exercício</th>
                 <th>Status</th>
             </tr>
             <tr>
                 <td>01</td>
-                <td>Aula 01 - História do Java</td>
-                <td><a href="">Link</a></td>
+                <td><a href="">Aula 01 - História do Java</a></td>
+                <td><a href="">Exercícios de Java #01</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
